@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - [x] WordPress
 - [x] WordPress Boilerplate for Plugins
 
-- [ ] Web-Scrapping
-- [ ] Vue.js
-- [ ] Laravel
-- [ ] Python
+- [x] Web-Scrapping
+- [x] Vue.js
+- [x] Laravel
+- [x] Python
 
 - [ ] Binance API
 
