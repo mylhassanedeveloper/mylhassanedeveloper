@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 [x] WordPress
-- 🌱 [x] WordPress Boilerplate for Plugins
+- [x] WordPress
+- [x] WordPress Boilerplate for Plugins
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
