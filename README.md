@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on WordPress
+- 🔭 [x] WordPress
 - 🌱 I’m currently learning WordPress Boilerplate for Plugins
 <!--
 - 👯 I’m looking to collaborate on ...
