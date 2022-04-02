@@ -9,6 +9,14 @@ Here are some ideas to get you started:
 
 - [x] WordPress
 - [x] WordPress Boilerplate for Plugins
+
+- [ ] Web-Scrapping
+- [ ] Vue.js
+- [ ] Laravel
+- [ ] Python
+
+- [ ] Binance API
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
